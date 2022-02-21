@@ -2,7 +2,7 @@ import "./App.css";
 import { Authenticator } from "@aws-amplify/ui-react";
 import "@aws-amplify/ui-react/styles.css";
 
-import Logo from "./assets/images/ClutchShots_Logo.svg";
+import Logo from "./assets/images/ClutchShots_Logo_Inverted.svg";
 
 function App() {
   return (
